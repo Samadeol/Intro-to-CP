@@ -1,1 +1,0 @@
-{"name":"Local: stacks_and_queues","url":"/home/sam/Desktop/Intro-to-CP/STL/stacks_and_queues.cpp","tests":[{"id":1654425373774,"input":"1 2 3 4 5 6 7 8 9 -1 -2 -3 -4 -5 -6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sam/Desktop/Intro-to-CP/STL/stacks_and_queues.cpp","group":"local","local":true}
